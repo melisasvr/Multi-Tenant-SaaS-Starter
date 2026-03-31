@@ -3,6 +3,45 @@
 > The foundation every B2B product needs auth, org management, team invites, and role-based access control, production-ready from day one.
 
 **Stack:** Next.js 16 · Supabase · Stripe · TypeScript · Tailwind CSS
+-----
+## Screenshots:
+### Landing Page
+
+![Landing Page](screenshots/Screenshot%202026-03-30%20190134.png) 
+
+- Marketing page with hero section, feature cards, and navigation with Sign in / Get started buttons.
+
+### Sign Up
+![Sign Up](screenshots/Screenshot%202026-03-30%20190329.png)
+
+- Clean sign up form with full name, work email, and password fields.
+
+### Sign In
+![Sign In](screenshots/Screenshot%202026-03-30%20190312.png)
+
+- Sign in with email/password or magic link.
+
+### Create Workspace (Onboarding)
+
+![Onboarding](screenshots/Screenshot%202026-03-30%20193332.png)
+
+- First-time onboarding flow create an organization with a name and URL slug.
+
+### Dashboard
+
+![Dashboard](screenshots/Screenshot%202026-03-30%20193516.png)
+
+> Org dashboard showing member count, plan, and status. Sidebar with Dashboard, Members, and Billing navigation.
+
+### Billing
+
+![Billing](screenshots/Screenshot%202026-03-30%20193639.png)
+
+> Billing page with current plan indicator and upgrade options. Free ($0), Starter ($29/mo), and Pro ($99/mo).
+-----
+
+## What's Included
+
 
 ---
 ## What's Included
