@@ -5,35 +5,6 @@
 **Stack:** Next.js 16 · Supabase · Stripe · TypeScript · Tailwind CSS
 
 ---
-
-## Screenshots
-
-### Landing Page
-![Landing Page](screenshots/Screenshot%2026-03-30%190134.png)
-> Marketing page with hero section, feature cards, and navigation with Sign in / Get started buttons.
-
-### Sign Up
-![Sign Up](screenshots/Screenshot%202026-03-30%190329.png)
-> Clean sign up form with full name, work email, and password fields.
-
-### Sign In
-![Sign In](docs/screenshots/signin.png)
-> Sign in with email/password or magic link.
-
-### Create Workspace (Onboarding)
-![Onboarding](docs/screenshots/onboarding.png)
-> First-time onboarding flow — create an organization with a name and URL slug.
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-> Org dashboard showing member count, plan, and status. Sidebar with Dashboard, Members, and Billing navigation.
-
-### Billing
-![Billing](docs/screenshots/billing.png)
-> Billing page with current plan indicator and upgrade options — Free ($0), Starter ($29/mo), and Pro ($99/mo).
-
----
-
 ## What's Included
 
 **Authentication**
@@ -52,7 +23,7 @@
 - Accept flow works whether or not the invitee has an account
 
 **Role-Based Access Control**
-- Three built-in roles: `owner`, `admin`, `member`
+- Three built-in roles: `owner`, `admin`, `member.`
 - Row-level security (RLS) policies enforced at the database layer
 - `useRole()` hook for conditional UI rendering
 
@@ -209,4 +180,25 @@ https://your-app.vercel.app/api/webhooks/stripe
 
 ---
 
-## License
+## License - MIT License
+```
+Copyright (c) 2026 Socratic Math Tutor
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including, without limitation, the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
