@@ -2,7 +2,7 @@
 
 > The foundation every B2B product needs auth, org management, team invites, and role-based access control, production-ready from day one.
 
-**Stack:** Next.js 16 · Supabase · Stripe · TypeScript · Tailwind CSS
+### Stack: Next.js 16 · Supabase · Stripe ·  TypeScript · Tailwind CSS
 -----
 ## Screenshots:
 ### Landing Page
